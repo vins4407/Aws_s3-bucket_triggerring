@@ -10,7 +10,7 @@ This repository contains a shell script that creates an AWS Lambda function and 
 ## Setup
 
 1. Clone the repository
-2. Set up the AWS CLI with `aws confige` command
+2. Set up the AWS CLI with `aws config` command
    you will be needing your `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` to configure the cli locally.
 3. Run the following command to create the resources:`./S3_bucket_Triggering.sh`
 
